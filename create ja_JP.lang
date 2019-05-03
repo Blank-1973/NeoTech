@@ -1,0 +1,352 @@
+PARSE_ESCAPES
+
+# Creative Tabs
+itemGroup.tabNeotech=NeoTech
+itemGroup.tabNeotechMetals=NeoTech: Metals
+
+#######################
+# Blocks
+#######################
+
+# Metals
+tile.neotech:oreCopper.name=銅鉱石
+tile.neotech:oreTin.name=スズ鉱石
+tile.neotech:oreLead.name=鉛鉱石
+tile.neotech:oreSilver.name=銀鉱石
+tile.neotech:blockCopper.name=銅ブロック
+tile.neotech:blockTin.name=スズブロック
+tile.neotech:blockLead.name=鉛ブロック
+tile.neotech:blockBronze.name=ブロンズブロック
+tile.neotech:blockSteel.name=スチールブロック
+tile.neotech:blockSilver.name=銀ブロック
+tile.neotech:blockTormented.name=Tormented ブロック
+tile.neotech:blockOutlandish.name=Outlandish ブロック
+tile.neotech:blockNeodymium.name=ネオジウムブロック
+
+#######################
+# Fluids
+#######################
+# Copper
+fluid.copper=溶融銅
+tile.neotech:fluid.copper.name=溶融銅
+fluid.dirtycopper=汚れた溶融銅
+tile.neotech:fluid.dirtycopper.name=汚れた溶融銅
+
+# Tin
+fluid.tin=溶融スズ
+tile.neotech:fluid.tin.name=溶融スズ
+fluid.dirtytin=汚れた溶融スズ
+tile.neotech:fluid.dirtytin.name=汚れた溶融スズ
+
+# Lead
+fluid.lead=溶融鉛
+tile.neotech:fluid.lead.name=溶融鉛
+fluid.dirtylead=汚れた溶融鉛
+tile.neotech:fluid.dirtylead.name=汚れた溶融鉛
+
+# Bronze
+fluid.bronze=溶融ブロンズ
+tile.neotech:fluid.bronze.name=溶融ブロンズ
+
+# Steel
+fluid.steel=溶融スチール
+tile.neotech:fluid.steel.name=溶融スチール
+
+# Silver
+fluid.silver=溶融銀
+tile.neotech:fluid.silver.name=溶融銀
+fluid.dirtysilver=汚れた溶融銀
+tile.neotech:fluid.dirtysilver.name=汚れた溶融銀
+
+# Gold
+fluid.gold=溶融金
+tile.neotech:fluid.gold.name=溶融金
+fluid.dirtygold=汚れた溶融金
+tile.neotech:fluid.dirtygold.name=汚れた溶融金
+
+# Iron
+fluid.iron=溶融鉄
+tile.neotech:fluid.iron.name=溶融鉄
+fluid.dirtyiron=汚れた溶融鉄
+tile.neotech:fluid.dirtyiron.name=汚れた溶融鉄
+
+# Carbon
+fluid.carbon=液体カーボン
+tile.neotech:fluid.carbon.name=液体カーボン
+
+# Obsidian
+fluid.obsidian=溶融黒曜石
+tile.neotech:fluid.obsidian.name=溶融黒曜石
+
+# Hydrogen
+fluid.hydrogen=水素
+tile.neotech:fluid.hydrogen.name=水素
+
+# Oxygen
+fluid.oxygen=酸素
+tile.neotech:fluid.oxygen.name=酸素
+
+# Blaze
+fluid.blaze=液体ブレイズ
+tile.neotech:fluid.blaze.name=液体ブレイズ
+
+# Chorus
+fluid.chorus=液体コーラスフルーツ
+tile.neotech:fluid.chorus.name=液体コーラスフルーツ
+
+# Wither
+fluid.wither=液体ネザースター
+tile.neotech:fluid.wither.name=液体ネザースター
+
+# Tormented
+fluid.tormented=Tormented Fluid
+tile.neotech:fluid.tormented.name=Tormented Fluid
+
+# Outlandish
+fluid.outlandish=Outlandish Fluid
+tile.neotech:fluid.outlandish.name=Outlandish Fluid
+
+# Neodymium
+fluid.neodymium=溶融ネオジウム
+tile.neotech:fluid.neodymium.name=溶融ネオジウム
+
+#######################
+# Items
+#######################
+
+# Metals
+item.neotech:dustIron.name=鉄の粉
+item.neotech:nuggetIron.name=鉄ナゲット
+item.neotech:dustGold.name=金の粉
+item.neotech:dustCopper.name=銅の粉
+item.neotech:ingotCopper.name=銅インゴット
+item.neotech:nuggetCopper.name=銅ナゲット
+item.neotech:dustBronze.name=ブロンズの粉
+item.neotech:ingotBronze.name=ブロンズインゴット
+item.neotech:nuggetBronze.name=ブロンズナゲット
+item.neotech:dustTin.name=スズの粉
+item.neotech:ingotTin.name=スズインゴット
+item.neotech:nuggetTin.name=スズナゲット
+item.neotech:dustLead.name=鉛の粉
+item.neotech:ingotLead.name=鉛インゴット
+item.neotech:nuggetLead.name=鉛ナゲット
+item.neotech:dustSteel.name=スチールの粉
+item.neotech:ingotSteel.name=スチールインゴット
+item.neotech:nuggetSteel.name=スチールナゲット
+item.neotech:dustSilver.name=銀の粉
+item.neotech:ingotSilver.name=銀インゴット
+item.neotech:nuggetSilver.name=銀ナゲットナゲット
+
+# Alloys
+item.neotech:nuggetTormented.name=Tormented Nugget
+item.neotech:dustTormented.name=Tormented Dust
+item.neotech:ingotTormented.name=Tormented Ingot
+item.neotech.nuggetOutlandish.name=Outlandish Nugget
+item.neotech:dustOutlandish.name=Outlandish Dust
+item.neotech:ingotOutlandish.name=Outlandish Ingot
+item.neotech:nuggetNeodymium.name=ネオジムナゲット
+item.neotech:dustNeodymium.name=ネオジムの粉
+item.neotech:ingotNeodymium.name=ネオジムインゴット
+
+# Upgrades
+item.neotech:CPU_1.name=シングルコアプロセッサ
+item.neotech:CPU_2.name=デュアルコアプロセッサ
+item.neotech:CPU_3.name=クワッドコアプロセッサ
+item.neotech:CPU_4.name=オクタコアプロセッサ
+
+item.neotech:DDR1.name=DDR1メモリモジュール
+item.neotech:DDR2.name=DDR2メモリモジュール
+item.neotech:DDR3.name=DDR3メモリモジュール
+item.neotech:DDR4.name=DDR4メモリモジュール
+
+item.neotech:HDD_64.name=64Gハードドライブ
+item.neotech:HDD_256.name=256Gハードドライブ
+item.neotech:HDD_512.name=512Gハードドライブ
+item.neotech:HDD_1T.name=1Tハードドライブ
+
+item.neotech:PSU_250.name=250W電源
+item.neotech:PSU_500.name=500W電源
+item.neotech:PSU_750.name=750W電源
+item.neotech:PSU_960.name=960W電源
+
+item.neotech:Expansion_Card.name=拡張カード
+item.neotech:Redstone_Circuit.name=レッドストーンコントロール
+item.neotech:Network_Card.name=ネットワークカード
+item.neotech:Transformer.name=トランス
+
+# Tools
+item.neotech:wrench.name=レンチ
+
+#######################
+# Tile Entities
+#######################
+
+# Processors
+tile.neotech:electricFurnace.name=電気炉
+tile.neotech:electricCrusher.name=電動クラッシャー
+tile.neotech:electricCrucible.name=電気るつぼ
+tile.neotech:electricSolidifier.name=電動固形化機
+tile.neotech:alloyer.name=電動合成機
+tile.neotech:centrifuge.name=電動遠心分離機
+
+# Generators
+tile.neotech:furnaceGenerator.name=発電機
+tile.neotech:fluidGenerator.name=液体発電機
+tile.neotech:solarPanelT1.name=ベーシックソーラーパネル
+tile.neotech:solarPanelT2.name=アドバンスドソーラーパネル
+tile.neotech:solarPanelT3.name=エリートソーラーパネル
+
+# Operators
+tile.neotech:treeFarm.name=電力ロガー
+
+# Storage
+tile.neotech:basicEnergyStorage.name=ベーシックエネルギーストレージ
+tile.neotech:advancedEnergyStorage.name=アドバンスドエネルギーストレージ
+tile.neotech:eliteEnergyStorage.name=エリートエネルギーストレージ
+tile.neotech:creativeEnergyStorage.name=クリエイティブエネルギーストレージ
+tile.neotech:basicTank.name=ベーシックタンク
+tile.neotech:advancedTank.name=アドバンスドタンク
+tile.neotech:eliteTank.name=エリートタンク
+tile.neotech:creativeTank.name=クリエイティブタンク
+tile.neotech:voidTank.name=ボイドタンク
+
+#######################
+# GUI
+#######################
+
+# Furnace
+neotech.furnace.title=電気炉
+
+# Crusher
+neotech.crusher.title=電動粉砕機
+
+# Thermal Binder
+neotech.thermalbinder.title=サーマルバインダー
+
+# Crucible
+neotech.crucible.title=電気るつぼ
+
+# Solidifier
+neotech.electricSolidifier.title=電動固形化機
+
+# Alloyer
+neotech.alloyer.title=電動合成機
+
+# Centrifuge
+neotech.centrifuge.title=電動遠心分離機
+
+# Furnace Generator
+neotech.furnacegenerator.title=発電機
+
+# Fluid Generator
+neotech.fluidgenerator.title=液体発電機
+
+# Tree Farm
+neotech.treeFarm.title=電力ロガー
+
+#######################
+# Common Text
+#######################
+neotech.text.error=エラー
+
+neotech.text.in=入力
+neotech.text.out=出力
+neotech.text.upgrade=アップグレード
+neotech.text.upgrades=アップグレード
+neotech.text.start=スタート
+
+neotech.text.processors=プロセッサ
+neotech.text.memory=メモリ
+neotech.text.control=レッドストーンコントロール
+neotech.text.network=ネットワークカード
+neotech.text.psu=電源
+neotech.text.expansion=拡張
+
+neotech.text.redstoneMode=レッドストーンモード
+neotech.text.low=低
+neotech.text.high=高
+neotech.text.disabled=無効
+
+neotech.text.ioConfig=入搬出設定
+
+neotech.text.information=情報
+
+neotech.text.empty=空
+
+neotech.text.energyStored=エネルギー貯蔵
+neotech.text.fluidStored=液体貯蔵
+
+neotech.text.clearTank=Ctrl+Shift+クリックすると、消去されます
+
+neotech.text.processMode=ソリッドモード
+neotech.text.blockMode=ブロックモード
+neotech.text.ingotMode=インゴットモード
+neotech.text.nuggetMode=ナゲットモード
+
+neotech.text.stats=現在の統計
+neotech.text.energyUsage=エネルギー使用量
+neotech.text.processTime=処理時間
+neotech.text.generating=エネルギー政策セミナー生成
+neotech.text.operations=オペレーション
+
+neotech.text.rangeTree=範囲
+neotech.text.chopCount=チョップ数
+
+neotech.text.modName=Neotech
+
+#######################
+# Commands
+#######################
+commands.addCrucibleRecipe.usage=§cUsage: input<ItemStack (format : MODID:ITEMID:META:STACK_SIZE or oreDictTag)> output<FluidStack (format : FLUID:AMOUNT)> OR "hands"<Left hand input, right output>
+commands.addSolidifierRecipe.usage=Usage: mode<BLOCK|INGOT|NUGGET> input<FluidStack (format : FLUID:AMOUNT)> output<ItemStack (format : MOD:ITEM:DAMAGE:STACK or ORE_DICT_TAG)> OR "hands"<Left hand input, right output>  mode<BLOCK|INGOT|NUGGET>
+commands.addFluidFuelValues.usage=§cUsage: input<FluidStack (format : FLUID:AMOUNT)> output<BurnTime (format : INTEGER), BurnRate (format : INTEGER)>
+commands.addAlloyRecipe.usage=§cUsage: input1<FluidStack (format : FLUID:AMOUNT)> input2<FluidStack (format : FLUID:AMOUNT)> output<FluidStack (format : FLUID:AMOUNT)>
+commands.addCentrifugeRecipe.usage=§cUsage: input<FluidStack (format : FLUID:AMOUNT)> output1<FluidStack (format : FLUID:AMOUNT)> output2<FluidStack (format : FLUID:AMOUNT)>
+commands.addCrusherRecipe.usage=§cUsage: <input> <output> <outputAmount> <secondaryOutput(Optional)> <secondaryOuputChance(Optional)>
+
+#######################
+# Descriptions
+#######################
+
+# Electric Furnace
+neotech.electricFurnace.desc=電気炉は単純にエネルギーで動く炉です。それはバニラのかまどがするであろうものは何でも製錬するでしょう。
+neotech.electricFurnace.processorUpgrade.desc=プロセッサーによってマシンの速度が向上し、わずかなエネルギーコストが追加されます。
+neotech.electricFurnace.memoryUpgrade.desc=メモリを使用すると、機械は一度に複数の操作を実行できます。
+neotech.electricFurnace.controlUpgrade.desc=コントロールをアップグレードすると、レッドストーンコントロールにアクセスできるようになります。\r[高] は赤石の信号が必要なことを示し、 \r[低] は赤石の信号が必要ないことを示し、 \r[無効] は赤石の信号を無視します。
+neotech.electricFurnace.networkUpgrade.desc=拡張アップグレードでは、マシンの自動入出力を設定できます。
+neotech.electricFurnace.psuUpgrade.desc=電源により、機械はより多くのエネルギーを蓄えることができる
+
+# Electric Crusher
+neotech.electricCrusher.desc=The Electric Crusher smashes items put into it. If you put an ore block into the input, you can get two ore dust as an output. It can also crush things like cobblestone into sand. As more ores and mods are added, the crusher will adapt by adding recipes based on ore dict and other factors.
+neotech.electricCrusher.expansionUpgrade.desc=The expansion upgrade will enable the crusher to have a possible secondary output, it also allows you to configure the automatic input and output of the machine.
+
+# Electric Crucible
+neotech.electricCrucible.desc=The Electric Crucible allows you to melt down metals into their molten form. Simply put a metal (block, ingot, etc) into the input slot and it will begin to melt the item. By default, the operation takes 1000 ticks. The Electric Crucible can also melt stone into lava and ice into water.
+
+# Solidifier
+neotech.electricSolidifier.desc=The Electric Solidifier will take a fluid input and try to solidify it into the selected item. Solidifier modes will attempt to cool the fluid to the shape selected.
+
+# Alloyer
+neotech.alloyer.desc=The Electric Alloyer will take two input fluids and combine them into an output fluid.
+
+# Centrifuge
+neotech.centrifuge.desc=The Electric Centrifuge will separate a fluid into the two components it is made of. Useful for separating the stone from molten metal.
+
+# Furnace Generator
+neotech.furnaceGenerator.desc=The Furnace Generator burns solid fuel inserted into the input slot and produces energy. It will burn anything that a vanilla furnace would
+neotech.furnaceGenerator.processorUpgrade.desc=Processors increase the generating time of the input, they will help to reduce the drawback of memory upgrades by up to half
+neotech.furnaceGenerator.memoryUpgrade.desc=Memory modules increase the amount of energy produced by allowing it to handle more operations per tick. It will also reduce the burn time of the input
+
+# Fluid Generator
+neotech.fluidGenerator.desc=The Fluid Generator burns liquid fuel and produces energy. By default, the Fluid Generator generates 175 Energy/tick. You can add more liquid fuels via the config file
+
+# Tree Farm
+neotech.treeFarm.desc=The Electric Logger is an automated tree farm. By default, the range is 3 blocks around the farm and a cost of 200 Energy/block. The logger will chop trees that start on the same Y plane as the logger. Provide an axe to chop the wood, and you can optionally add shears to shear leaves. If you add shears, the leaves will not drop saplings. Saplings will be placed in the top right three slots. These are the ones that will be planted. Excess saplings will go to the main inventory. Automation and pipes will not pull from the sapling slots so you don't have to worry about those being emptied.
+neotech.treeFarm.processorUpgrade.desc=プロセッサは、破損ブロックを増やします。
+neotech.treeFarm.memoryUpgrade.desc=農場の範囲を広げます。
+
+#######################
+# JEI
+#######################
+
+jei.text.requiresExpansion=拡張アップグレードが必要です
